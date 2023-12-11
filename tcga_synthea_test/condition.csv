@@ -1,0 +1,60 @@
+Name,SNOMED Code,Condition,Onset Date,Resolved Date,TCGA_Sample_ID
+"Greenholt190, Pok428 Meagan221",314529007,Medication review due (situation),2000-06-03,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",5251000175109,Received certificate of high school equivalency (finding),2007-07-14,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",73595000,Stress (finding),2007-07-14,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",160903007,Full-time employment (finding),2008-07-19,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",423315002,Limited social contact (finding),2008-07-19,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",266948004,Has a criminal record (finding),2008-07-19,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",15777000,Prediabetes,2014-07-26,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",361055000,Misuses drugs (finding),2014-07-26,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",444814009,Viral sinusitis (disorder),2014-09-12,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",72892002,Normal pregnancy,2015-08-29,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",72892002,Normal pregnancy,2016-04-23,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",444814009,Viral sinusitis (disorder),2016-06-21,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",254837009,Malignant neoplasm of breast (disorder),2017-04-21,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",307426000,Acute infective cystitis (disorder),2018-10-06,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",48333001,Burn injury (morphologic abnormality),2020-03-01,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",403191005,Second degree burn,2020-03-01,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",25675004,Patient transfer to skilled nursing facility (procedure),2020-03-01,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",80583007,Severe anxiety (panic) (finding),2020-08-01,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",72892002,Normal pregnancy,2020-09-26,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",271737000,Anemia (disorder),2020-09-26,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",398254007,Preeclampsia,2021-03-13,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",741062008,Not in labor force (finding),2023-08-05,,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",423315002,Limited social contact (finding),2023-08-05,,TCGA-E9-A1RH-01A-21R-A169-07
+"Lindgren255, Hilaria948 Tammy740",224299000,Received higher education (finding),1987-07-19,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",19169002,Miscarriage in first trimester,1999-08-15,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",314529007,Medication review due (situation),2006-08-13,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",160904001,Part-time employment (finding),2013-06-09,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",195662009,Acute viral pharyngitis (disorder),2014-03-16,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",195662009,Acute viral pharyngitis (disorder),2014-11-25,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",59621000,Essential hypertension (disorder),2015-06-14,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",160903007,Full-time employment (finding),2015-06-14,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",73595000,Stress (finding),2015-06-14,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",424393004,Reports of violence in the environment (finding),2015-06-14,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",10939881000119105,Unhealthy alcohol drinking behavior (finding),2015-06-14,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",314529007,Medication review due (situation),2016-06-19,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",422650009,Social isolation (finding),2016-06-19,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",706893006,Victim of intimate partner abuse (finding),2016-06-19,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",314529007,Medication review due (situation),2017-06-25,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",314529007,Medication review due (situation),2017-08-20,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",160904001,Part-time employment (finding),2017-08-20,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",10509002,Acute bronchitis (disorder),2017-08-27,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",195662009,Acute viral pharyngitis (disorder),2018-01-19,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",73438004,Unemployed (finding),2018-01-28,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",73595000,Stress (finding),2018-01-28,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",160903007,Full-time employment (finding),2018-07-01,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72892002,Normal pregnancy,2019-05-05,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",35999006,Blighted ovum,2019-05-05,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",314529007,Medication review due (situation),2019-07-07,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",444814009,Viral sinusitis (disorder),2020-01-02,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",424393004,Reports of violence in the environment (finding),2020-07-12,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",314529007,Medication review due (situation),2021-07-18,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",160904001,Part-time employment (finding),2021-07-18,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",423315002,Limited social contact (finding),2021-07-18,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",73595000,Stress (finding),2021-07-18,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",444814009,Viral sinusitis (disorder),2021-09-20,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",314529007,Medication review due (situation),2022-07-24,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",160903007,Full-time employment (finding),2022-07-24,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",254837009,Malignant neoplasm of breast (disorder),2023-06-30,,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",160904001,Part-time employment (finding),2023-07-30,,TCGA-C8-A26W-01A-11R-A16F-07

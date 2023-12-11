@@ -1,0 +1,337 @@
+Name,LOINC Code,Observation,Value,Date Recorded,TCGA_Sample_ID
+"Greenholt190, Pok428 Meagan221",4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,5.95 %,2014-07-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",8302-2,Body Height,168.3 cm,2014-07-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,1 {score},2014-07-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",29463-7,Body Weight,59.6 kg,2014-07-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",39156-5,Body mass index (BMI) [Ratio],21.05 kg/m2,2014-07-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",85354-9,Blood pressure panel with all children optional,,2014-07-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",8867-4,Heart rate,81 /min,2014-07-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",9279-1,Respiratory rate,15 /min,2014-07-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",2339-0,Glucose [Mass/volume] in Blood,79.34 mg/dL,2014-07-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",6299-2,Urea nitrogen [Mass/volume] in Blood,17.04 mg/dL,2014-07-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",38483-4,Creatinine [Mass/volume] in Blood,0.81 mg/dL,2014-07-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",49765-1,Calcium [Mass/volume] in Blood,9.23 mg/dL,2014-07-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",2947-0,Sodium [Moles/volume] in Blood,137.68 mmol/L,2014-07-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",6298-4,Potassium [Moles/volume] in Blood,5.18 mmol/L,2014-07-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",2069-3,Chloride [Moles/volume] in Blood,105.31 mmol/L,2014-07-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",20565-8,"Carbon dioxide, total [Moles/volume] in Blood",24.1 mmol/L,2014-07-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",72166-2,Tobacco smoking status,,2014-07-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",93025-5,"Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]",,2014-07-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",82667-7,Total score [DAST-10],9 {score},2014-07-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",44667-4,Site of distant metastasis in Breast tumor,,2017-04-21,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",21907-1,Distant metastases.clinical [Class] Cancer,,2017-04-21,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",33728-7,Size.maximum dimension in Tumor,2.6851 cm,2017-04-21,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",21905-5,Primary tumor.clinical [Class] Cancer,,2017-04-21,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",85352-3,Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy,0 {#},2017-04-21,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",21906-3,Regional lymph nodes.clinical [Class] Cancer,,2017-04-21,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",85319-2,HER2 [Presence] in Breast cancer specimen by Immune stain,,2017-04-22,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",85318-4,HER2 [Presence] in Breast cancer specimen by FISH,,2017-04-22,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",85337-4,Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain,,2017-04-22,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",85339-0,Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain,,2017-04-22,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",10480-2,Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain,,2017-04-22,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",21908-9,Stage group.clinical Cancer,,2017-04-22,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",21908-9,Stage group.clinical Cancer,,2017-04-22,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",59557-9,Treatment status Cancer,,2017-06-19,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",88040-1,Response to cancer treatment,,2017-06-19,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.14 %,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",8302-2,Body Height,168.3 cm,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,0 {score},2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",29463-7,Body Weight,63.5 kg,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",39156-5,Body mass index (BMI) [Ratio],22.42 kg/m2,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",85354-9,Blood pressure panel with all children optional,,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",8867-4,Heart rate,86 /min,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",9279-1,Respiratory rate,15 /min,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",2339-0,Glucose [Mass/volume] in Blood,82.34 mg/dL,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",6299-2,Urea nitrogen [Mass/volume] in Blood,19.18 mg/dL,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",38483-4,Creatinine [Mass/volume] in Blood,0.84 mg/dL,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",49765-1,Calcium [Mass/volume] in Blood,9.71 mg/dL,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",2947-0,Sodium [Moles/volume] in Blood,139.6 mmol/L,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",6298-4,Potassium [Moles/volume] in Blood,4.78 mmol/L,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",2069-3,Chloride [Moles/volume] in Blood,102.05 mmol/L,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",20565-8,"Carbon dioxide, total [Moles/volume] in Blood",22.05 mmol/L,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",6690-2,Leukocytes [#/volume] in Blood by Automated count,7.2403 10*3/uL,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",789-8,Erythrocytes [#/volume] in Blood by Automated count,5.1846 10*6/uL,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",718-7,Hemoglobin [Mass/volume] in Blood,15.447 g/dL,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,46.676 %,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",787-2,MCV [Entitic volume] by Automated count,94.66 fL,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",785-6,MCH [Entitic mass] by Automated count,30.974 pg,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",786-4,MCHC [Mass/volume] by Automated count,35.376 g/dL,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",21000-5,Erythrocyte distribution width [Entitic volume] by Automated count,41.644 fL,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",777-3,Platelets [#/volume] in Blood by Automated count,232.03 10*3/uL,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",32207-3,Platelet distribution width [Entitic volume] in Blood by Automated count,308.77 fL,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",32623-1,Platelet mean volume [Entitic volume] in Blood by Automated count,11.052 fL,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",72166-2,Tobacco smoking status,,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",93025-5,"Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]",,2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],3 {score},2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],2 {score},2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",75626-2,Total score [AUDIT-C],2 {score},2017-07-29,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",88040-1,Response to cancer treatment,,2018-05-28,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",5792-7,Glucose [Mass/volume] in Urine by Test strip,1.4353 mg/dL,2018-10-06,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",2514-8,Ketones [Presence] in Urine by Test strip,,2018-10-06,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",5811-5,Specific gravity of Urine by Test strip,1.0092 {nominal},2018-10-06,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",5803-2,pH of Urine by Test strip,6.7262 pH,2018-10-06,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",5804-0,Protein [Mass/volume] in Urine by Test strip,2.8398 mg/dL,2018-10-06,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",5802-4,Nitrite [Presence] in Urine by Test strip,,2018-10-06,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",5794-3,Hemoglobin [Presence] in Urine by Test strip,,2018-10-06,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",5799-2,Leukocyte esterase [Presence] in Urine by Test strip,,2018-10-06,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",5821-4,WBCs,43.678 /[HPF],2018-10-06,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",13945-1,RBCs,1.8501 /[HPF],2018-10-06,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",5787-7,Epithelial Cells,0.67041 /[HPF],2018-10-06,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",24124-0,Casts,,2018-10-06,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",8247-9,Mucus Threads,,2018-10-06,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",5769-5,Bacteria,,2018-10-06,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",630-4,Bacteria identified in Urine by Culture,,2018-10-06,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",88040-1,Response to cancer treatment,,2019-04-21,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",88040-1,Response to cancer treatment,,2020-03-17,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,5.89 %,2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",8302-2,Body Height,168.3 cm,2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,1 {score},2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",29463-7,Body Weight,66.9 kg,2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",39156-5,Body mass index (BMI) [Ratio],23.61 kg/m2,2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",85354-9,Blood pressure panel with all children optional,,2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",8867-4,Heart rate,99 /min,2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",9279-1,Respiratory rate,15 /min,2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",2339-0,Glucose [Mass/volume] in Blood,75.02 mg/dL,2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",6299-2,Urea nitrogen [Mass/volume] in Blood,8.81 mg/dL,2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",38483-4,Creatinine [Mass/volume] in Blood,0.86 mg/dL,2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",49765-1,Calcium [Mass/volume] in Blood,9.58 mg/dL,2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",2947-0,Sodium [Moles/volume] in Blood,138.47 mmol/L,2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",6298-4,Potassium [Moles/volume] in Blood,4.33 mmol/L,2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",2069-3,Chloride [Moles/volume] in Blood,102.91 mmol/L,2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",20565-8,"Carbon dioxide, total [Moles/volume] in Blood",27.17 mmol/L,2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",2093-3,Cholesterol [Mass/volume] in Serum or Plasma,264.87 mg/dL,2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",2571-8,Triglycerides,115.6 mg/dL,2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",18262-6,Low Density Lipoprotein Cholesterol,190.59 mg/dL,2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,51.16 mg/dL,2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",72166-2,Tobacco smoking status,,2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",93025-5,"Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]",,2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],21 {score},2020-08-01,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",718-7,Hemoglobin [Mass/volume] in Blood,11.453 g/dL,2020-09-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",20570-8,Hematocrit [Volume Fraction] of Blood,34.031 %,2020-09-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",6690-2,Leukocytes [#/volume] in Blood by Automated count,7.1604 10*3/uL,2020-09-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",789-8,Erythrocytes [#/volume] in Blood by Automated count,4.9974 10*6/uL,2020-09-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",787-2,MCV [Entitic volume] by Automated count,90.341 fL,2020-09-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",785-6,MCH [Entitic mass] by Automated count,28.343 pg,2020-09-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",786-4,MCHC [Mass/volume] by Automated count,34.238 g/dL,2020-09-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",21000-5,Erythrocyte distribution width [Entitic volume] by Automated count,40.898 fL,2020-09-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",777-3,Platelets [#/volume] in Blood by Automated count,311.01 10*3/uL,2020-09-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",32207-3,Platelet distribution width [Entitic volume] in Blood by Automated count,501.32 fL,2020-09-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",32623-1,Platelet mean volume [Entitic volume] in Blood by Automated count,11.182 fL,2020-09-26,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",88040-1,Response to cancer treatment,,2021-03-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,5.91 %,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",8302-2,Body Height,168.3 cm,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,1 {score},2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",29463-7,Body Weight,71.3 kg,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",39156-5,Body mass index (BMI) [Ratio],25.17 kg/m2,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",85354-9,Blood pressure panel with all children optional,,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",8867-4,Heart rate,78 /min,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",9279-1,Respiratory rate,16 /min,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",2339-0,Glucose [Mass/volume] in Blood,72.22 mg/dL,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",6299-2,Urea nitrogen [Mass/volume] in Blood,14.06 mg/dL,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",38483-4,Creatinine [Mass/volume] in Blood,0.89 mg/dL,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",49765-1,Calcium [Mass/volume] in Blood,9.33 mg/dL,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",2947-0,Sodium [Moles/volume] in Blood,136.92 mmol/L,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",6298-4,Potassium [Moles/volume] in Blood,4.64 mmol/L,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",2069-3,Chloride [Moles/volume] in Blood,105.63 mmol/L,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",20565-8,"Carbon dioxide, total [Moles/volume] in Blood",24.54 mmol/L,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",2093-3,Cholesterol [Mass/volume] in Serum or Plasma,303.26 mg/dL,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",2571-8,Triglycerides,121.13 mg/dL,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",18262-6,Low Density Lipoprotein Cholesterol,220.61 mg/dL,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,58.42 mg/dL,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",6690-2,Leukocytes [#/volume] in Blood by Automated count,4.3317 10*3/uL,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",789-8,Erythrocytes [#/volume] in Blood by Automated count,4.2789 10*6/uL,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",718-7,Hemoglobin [Mass/volume] in Blood,15.875 g/dL,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,45.411 %,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",787-2,MCV [Entitic volume] by Automated count,86.101 fL,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",785-6,MCH [Entitic mass] by Automated count,28.748 pg,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",786-4,MCHC [Mass/volume] by Automated count,33.15 g/dL,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",21000-5,Erythrocyte distribution width [Entitic volume] by Automated count,40.132 fL,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",777-3,Platelets [#/volume] in Blood by Automated count,198.73 10*3/uL,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",32207-3,Platelet distribution width [Entitic volume] in Blood by Automated count,302.56 fL,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",32623-1,Platelet mean volume [Entitic volume] in Blood by Automated count,9.7516 fL,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",72166-2,Tobacco smoking status,,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",93025-5,"Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]",,2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],1 {score},2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",82667-7,Total score [DAST-10],0 {score},2023-08-05,TCGA-E9-A1RH-01A-21R-A169-07
+"Lindgren255, Hilaria948 Tammy740",8310-5,Body temperature,37.148 Cel,2014-03-16,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8310-5,Body temperature,37.167 Cel,2014-11-25,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8302-2,Body Height,171.6 cm,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,1 {score},2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",29463-7,Body Weight,54.8 kg,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",39156-5,Body mass index (BMI) [Ratio],18.61 kg/m2,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",85354-9,Blood pressure panel with all children optional,,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8867-4,Heart rate,89 /min,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",9279-1,Respiratory rate,15 /min,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",2093-3,Cholesterol [Mass/volume] in Serum or Plasma,201.03 mg/dL,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",2571-8,Triglycerides,131.49 mg/dL,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",18262-6,Low Density Lipoprotein Cholesterol,121.54 mg/dL,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,53.2 mg/dL,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",6690-2,Leukocytes [#/volume] in Blood by Automated count,4.975 10*3/uL,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",789-8,Erythrocytes [#/volume] in Blood by Automated count,5.4553 10*6/uL,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",718-7,Hemoglobin [Mass/volume] in Blood,14.894 g/dL,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,48.294 %,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",787-2,MCV [Entitic volume] by Automated count,84.008 fL,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",785-6,MCH [Entitic mass] by Automated count,29.586 pg,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",786-4,MCHC [Mass/volume] by Automated count,33.989 g/dL,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",21000-5,Erythrocyte distribution width [Entitic volume] by Automated count,42.793 fL,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",777-3,Platelets [#/volume] in Blood by Automated count,384.4 10*3/uL,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",32207-3,Platelet distribution width [Entitic volume] in Blood by Automated count,267.58 fL,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",32623-1,Platelet mean volume [Entitic volume] in Blood by Automated count,10.022 fL,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72166-2,Tobacco smoking status,,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",93025-5,"Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]",,2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],2 {score},2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",75626-2,Total score [AUDIT-C],4 {score},2015-06-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",85354-9,Blood pressure panel with all children optional,,2015-07-14,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",85354-9,Blood pressure panel with all children optional,,2015-09-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",85354-9,Blood pressure panel with all children optional,,2015-11-11,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8302-2,Body Height,171.6 cm,2016-06-19,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3 {score},2016-06-19,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",29463-7,Body Weight,54.8 kg,2016-06-19,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",39156-5,Body mass index (BMI) [Ratio],18.61 kg/m2,2016-06-19,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",85354-9,Blood pressure panel with all children optional,,2016-06-19,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8867-4,Heart rate,75 /min,2016-06-19,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",9279-1,Respiratory rate,15 /min,2016-06-19,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72166-2,Tobacco smoking status,,2016-06-19,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",93025-5,"Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]",,2016-06-19,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0 {score},2016-06-19,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],1 {score},2016-06-19,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",82667-7,Total score [DAST-10],0 {score},2016-06-19,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8302-2,Body Height,171.6 cm,2017-06-25,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3 {score},2017-06-25,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",29463-7,Body Weight,54.8 kg,2017-06-25,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",39156-5,Body mass index (BMI) [Ratio],18.61 kg/m2,2017-06-25,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",85354-9,Blood pressure panel with all children optional,,2017-06-25,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8867-4,Heart rate,91 /min,2017-06-25,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",9279-1,Respiratory rate,15 /min,2017-06-25,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72166-2,Tobacco smoking status,,2017-06-25,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",93025-5,"Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]",,2017-06-25,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0 {score},2017-06-25,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],1 {score},2017-06-25,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",82667-7,Total score [DAST-10],1 {score},2017-06-25,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8302-2,Body Height,171.6 cm,2017-08-20,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,2 {score},2017-08-20,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",29463-7,Body Weight,54.8 kg,2017-08-20,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",39156-5,Body mass index (BMI) [Ratio],18.61 kg/m2,2017-08-20,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",85354-9,Blood pressure panel with all children optional,,2017-08-20,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8867-4,Heart rate,99 /min,2017-08-20,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",9279-1,Respiratory rate,12 /min,2017-08-20,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72166-2,Tobacco smoking status,,2017-08-20,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",93025-5,"Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]",,2017-08-20,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],1 {score},2017-08-20,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",75626-2,Total score [AUDIT-C],0 {score},2017-08-20,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8310-5,Body temperature,37.782 Cel,2018-01-19,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8302-2,Body Height,171.6 cm,2018-01-28,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,0 {score},2018-01-28,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",29463-7,Body Weight,54.8 kg,2018-01-28,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",39156-5,Body mass index (BMI) [Ratio],18.61 kg/m2,2018-01-28,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",85354-9,Blood pressure panel with all children optional,,2018-01-28,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8867-4,Heart rate,79 /min,2018-01-28,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",9279-1,Respiratory rate,16 /min,2018-01-28,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72166-2,Tobacco smoking status,,2018-01-28,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",93025-5,"Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]",,2018-01-28,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],1 {score},2018-01-28,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",76504-0,Total score [HARK],0 {score},2018-01-28,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",75626-2,Total score [AUDIT-C],1 {score},2018-01-28,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8302-2,Body Height,171.6 cm,2018-07-01,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,1 {score},2018-07-01,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",29463-7,Body Weight,54.8 kg,2018-07-01,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",39156-5,Body mass index (BMI) [Ratio],18.61 kg/m2,2018-07-01,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",85354-9,Blood pressure panel with all children optional,,2018-07-01,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8867-4,Heart rate,65 /min,2018-07-01,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",9279-1,Respiratory rate,14 /min,2018-07-01,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",2093-3,Cholesterol [Mass/volume] in Serum or Plasma,160.42 mg/dL,2018-07-01,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",2571-8,Triglycerides,149.83 mg/dL,2018-07-01,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",18262-6,Low Density Lipoprotein Cholesterol,76.54 mg/dL,2018-07-01,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,53.92 mg/dL,2018-07-01,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72166-2,Tobacco smoking status,,2018-07-01,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",93025-5,"Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]",,2018-07-01,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],7 {score},2018-07-01,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],1 {score},2018-07-01,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",82667-7,Total score [DAST-10],1 {score},2018-07-01,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8302-2,Body Height,171.6 cm,2019-07-07,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,2 {score},2019-07-07,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",29463-7,Body Weight,54.8 kg,2019-07-07,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",39156-5,Body mass index (BMI) [Ratio],18.61 kg/m2,2019-07-07,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",85354-9,Blood pressure panel with all children optional,,2019-07-07,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8867-4,Heart rate,90 /min,2019-07-07,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",9279-1,Respiratory rate,14 /min,2019-07-07,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72166-2,Tobacco smoking status,,2019-07-07,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",93025-5,"Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]",,2019-07-07,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],4 {score},2019-07-07,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],1 {score},2019-07-07,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",75626-2,Total score [AUDIT-C],2 {score},2019-07-07,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8302-2,Body Height,171.6 cm,2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3 {score},2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",29463-7,Body Weight,54.8 kg,2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",39156-5,Body mass index (BMI) [Ratio],18.61 kg/m2,2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",85354-9,Blood pressure panel with all children optional,,2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8867-4,Heart rate,84 /min,2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",9279-1,Respiratory rate,12 /min,2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",6690-2,Leukocytes [#/volume] in Blood by Automated count,8.8564 10*3/uL,2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",789-8,Erythrocytes [#/volume] in Blood by Automated count,5.0441 10*6/uL,2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",718-7,Hemoglobin [Mass/volume] in Blood,15.575 g/dL,2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,35.23 %,2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",787-2,MCV [Entitic volume] by Automated count,84.777 fL,2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",785-6,MCH [Entitic mass] by Automated count,29.665 pg,2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",786-4,MCHC [Mass/volume] by Automated count,33.593 g/dL,2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",21000-5,Erythrocyte distribution width [Entitic volume] by Automated count,42.786 fL,2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",777-3,Platelets [#/volume] in Blood by Automated count,298.36 10*3/uL,2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",32207-3,Platelet distribution width [Entitic volume] in Blood by Automated count,449.36 fL,2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",32623-1,Platelet mean volume [Entitic volume] in Blood by Automated count,9.5441 fL,2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72166-2,Tobacco smoking status,,2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",93025-5,"Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]",,2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],1 {score},2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",75626-2,Total score [AUDIT-C],2 {score},2020-07-12,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8302-2,Body Height,171.6 cm,2021-07-18,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,4 {score},2021-07-18,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",29463-7,Body Weight,54.8 kg,2021-07-18,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",39156-5,Body mass index (BMI) [Ratio],18.61 kg/m2,2021-07-18,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",85354-9,Blood pressure panel with all children optional,,2021-07-18,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8867-4,Heart rate,73 /min,2021-07-18,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",9279-1,Respiratory rate,12 /min,2021-07-18,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",2093-3,Cholesterol [Mass/volume] in Serum or Plasma,158.22 mg/dL,2021-07-18,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",2571-8,Triglycerides,129.84 mg/dL,2021-07-18,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",18262-6,Low Density Lipoprotein Cholesterol,75.43 mg/dL,2021-07-18,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,56.82 mg/dL,2021-07-18,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72166-2,Tobacco smoking status,,2021-07-18,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",93025-5,"Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]",,2021-07-18,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],6 {score},2021-07-18,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],1 {score},2021-07-18,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",82667-7,Total score [DAST-10],0 {score},2021-07-18,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8302-2,Body Height,171.6 cm,2022-07-24,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,4 {score},2022-07-24,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",29463-7,Body Weight,54.8 kg,2022-07-24,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",39156-5,Body mass index (BMI) [Ratio],18.61 kg/m2,2022-07-24,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",85354-9,Blood pressure panel with all children optional,,2022-07-24,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8867-4,Heart rate,92 /min,2022-07-24,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",9279-1,Respiratory rate,16 /min,2022-07-24,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72166-2,Tobacco smoking status,,2022-07-24,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",93025-5,"Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]",,2022-07-24,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],2 {score},2022-07-24,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],1 {score},2022-07-24,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",44667-4,Site of distant metastasis in Breast tumor,,2023-06-30,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",21907-1,Distant metastases.clinical [Class] Cancer,,2023-06-30,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33728-7,Size.maximum dimension in Tumor,3.7938 cm,2023-06-30,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",21905-5,Primary tumor.clinical [Class] Cancer,,2023-06-30,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",85352-3,Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy,0 {#},2023-06-30,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",21906-3,Regional lymph nodes.clinical [Class] Cancer,,2023-06-30,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",85319-2,HER2 [Presence] in Breast cancer specimen by Immune stain,,2023-07-02,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",85318-4,HER2 [Presence] in Breast cancer specimen by FISH,,2023-07-02,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",85337-4,Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain,,2023-07-02,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",85339-0,Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain,,2023-07-02,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",10480-2,Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain,,2023-07-02,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",21908-9,Stage group.clinical Cancer,,2023-07-02,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",21908-9,Stage group.clinical Cancer,,2023-07-02,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8302-2,Body Height,171.6 cm,2023-07-30,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,1 {score},2023-07-30,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",29463-7,Body Weight,54.8 kg,2023-07-30,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",39156-5,Body mass index (BMI) [Ratio],18.61 kg/m2,2023-07-30,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",85354-9,Blood pressure panel with all children optional,,2023-07-30,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",8867-4,Heart rate,98 /min,2023-07-30,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",9279-1,Respiratory rate,13 /min,2023-07-30,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",72166-2,Tobacco smoking status,,2023-07-30,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",93025-5,"Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]",,2023-07-30,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0 {score},2023-07-30,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",82667-7,Total score [DAST-10],1 {score},2023-07-30,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",59557-9,Treatment status Cancer,,2023-09-15,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",88040-1,Response to cancer treatment,,2023-09-15,TCGA-C8-A26W-01A-11R-A16F-07

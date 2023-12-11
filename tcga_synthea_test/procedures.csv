@@ -1,0 +1,327 @@
+Name,SNOMED Code,Procedure,Date Performed,TCGA_Sample_ID
+"Greenholt190, Pok428 Meagan221",710824005,Assessment of health and social care needs (procedure),2014-07-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",428211000124100,Assessment of substance use (procedure),2014-07-26 06:55:50 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",713106006,Screening for drug abuse (procedure),2014-07-26 07:10:43 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",252160004,Standard pregnancy test,2015-08-29 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",169230002,Ultrasound scan for fetal viability,2015-08-29 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",10383002,Counseling for termination of pregnancy,2015-09-13 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",714812005,Induced termination of pregnancy,2015-09-13 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",386394001,Pregnancy termination care,2015-09-29 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",5880005,Physical examination procedure (procedure),2015-09-29 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",171207006,Depression screening,2015-09-29 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",252160004,Standard pregnancy test,2016-04-23 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",169230002,Ultrasound scan for fetal viability,2016-04-23 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",274804006,Evaluation of uterine fundal height,2016-04-23 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",225158009,Auscultation of the fetal heart,2016-04-23 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",44608003,Blood group typing (procedure),2016-04-23 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",104091002,"Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential",2016-04-23 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",47758006,Hepatitis B Surface Antigen Measurement,2016-04-23 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",31676001,Human immunodeficiency virus antigen test,2016-04-23 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",310861008,Chlamydia antigen test,2016-04-23 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",165829005,Gonorrhea infection titer test (procedure),2016-04-23 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",269828009,Syphilis infectious titer test (procedure),2016-04-23 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",117010004,Urine culture,2016-04-23 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",90226004,"Cytopathology procedure, preparation of smear, genital source",2016-04-23 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",395123002,Urine screening test for diabetes,2016-04-23 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",104375008,"Hepatitis C antibody, confirmatory test",2016-04-23 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",169690007,Rubella screening,2016-04-23 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",104326007,Measurement of Varicella-zoster virus antibody,2016-04-23 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",28163009,"Skin test for tuberculosis, Tine test (procedure)",2016-04-23 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",167271000,Urine protein test,2016-04-23 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",5880005,Physical examination procedure (procedure),2016-04-23 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",274804006,Evaluation of uterine fundal height,2016-05-21 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",225158009,Auscultation of the fetal heart,2016-05-21 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",443529005,Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure),2016-05-21 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",271442007,Fetal anatomy study,2016-06-18 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",275833003,AFP test - antenatal,2016-06-18 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",274804006,Evaluation of uterine fundal height,2016-06-18 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",225158009,Auscultation of the fetal heart,2016-06-18 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",274804006,Evaluation of uterine fundal height,2016-07-16 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",225158009,Auscultation of the fetal heart,2016-07-16 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",274804006,Evaluation of uterine fundal height,2016-08-13 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",225158009,Auscultation of the fetal heart,2016-08-13 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",104091002,"Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential",2016-09-10 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",399014008,"Administration of diphtheria, pertussis, and tetanus vaccine",2016-09-10 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",268556000,Urine screening for glucose,2016-09-10 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",274804006,Evaluation of uterine fundal height,2016-09-10 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",225158009,Auscultation of the fetal heart,2016-09-10 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",274804006,Evaluation of uterine fundal height,2016-10-08 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",225158009,Auscultation of the fetal heart,2016-10-08 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",118001005,Streptococcus pneumoniae group B antigen assay,2016-11-05 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",274804006,Evaluation of uterine fundal height,2016-11-05 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",225158009,Auscultation of the fetal heart,2016-11-05 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",237001001,Augmentation of labor,2016-11-19 05:05:19-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",66348005,Childbirth,2016-11-19 05:05:19-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",5880005,Physical examination procedure (procedure),2016-12-31 05:05:19-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",171207006,Depression screening,2016-12-31 05:05:19-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",241055006,Mammogram - symptomatic (procedure),2017-04-21 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",1571000087109,Ultrasonography of bilateral breasts (procedure),2017-04-21 06:28:28 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",122548005,Biopsy of breast (procedure),2017-04-21 06:54:10 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",434363004,Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure),2017-04-21 07:47:32 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",433114000,Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure),2017-04-22 09:47:32 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",223487003,Discussion about options (procedure),2017-04-23 19:16:32 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",392021009,Lumpectomy of breast (procedure),2017-04-27 12:14:26 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-03 21:36:59 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-05 02:15:18 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-06 03:38:42 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-07 13:50:08 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-08 15:47:40 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-09 23:18:18 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-11 00:24:00 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-12 12:03:26 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-13 21:46:17 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-14 22:58:24 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-16 03:35:51 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-17 06:40:15 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-18 17:19:41 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-20 00:34:13 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-21 03:03:27 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-22 06:26:42 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-23 09:46:35 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-24 15:31:06 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-25 19:16:56 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-27 00:06:56 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-28 01:56:55 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-29 04:01:26 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-05-30 16:17:42 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-06-01 04:08:41 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-06-02 12:03:14 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-06-03 19:01:46 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-06-04 21:14:20 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-06-06 05:53:44 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-06-07 12:51:00 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-06-08 23:18:32 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-06-10 05:43:38 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-06-11 16:38:17 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-06-13 01:56:31 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",385798007,Radiation therapy care (regime/therapy),2017-06-14 04:33:53 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",710824005,Assessment of health and social care needs (procedure),2017-07-29 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",710841007,Assessment of anxiety (procedure),2017-07-29 07:01:05 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",171207006,Depression screening (procedure),2017-07-29 07:20:03 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),2017-07-29 07:34:04 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",428211000124100,Assessment of substance use (procedure),2017-07-29 07:58:09 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),2017-07-29 08:11:07 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",25656009,"Physical examination, complete (procedure)",2017-10-09 22:00:26 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",25656009,"Physical examination, complete (procedure)",2018-02-07 21:39:27-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",25656009,"Physical examination, complete (procedure)",2018-05-27 23:14:04 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",71651007,Mammography (procedure),2018-05-27 23:53:39 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",35025007,Manual pelvic examination (procedure),2018-05-28 00:14:21 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",90226004,"Cytopathology procedure, preparation of smear, genital source (procedure)",2018-05-28 00:25:35 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",25656009,"Physical examination, complete (procedure)",2018-09-17 00:43:26 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",84100007,History taking (procedure),2018-10-06 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",223470000,Discussion about signs and symptoms (procedure),2018-10-06 06:18:37 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",67879005,"History and physical examination, limited (procedure)",2018-10-06 06:30:15 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",386053000,Evaluation procedure (procedure),2018-10-06 06:45:15 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",57617002,Urine specimen collection (procedure),2018-10-06 07:00:15 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",441550005,Urinalysis with reflex to microscopy and culture (procedure),2018-10-06 07:10:15 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",281789004,Antibiotic therapy (procedure),2018-10-06 07:20:15 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",25656009,"Physical examination, complete (procedure)",2019-01-08 00:18:45-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",25656009,"Physical examination, complete (procedure)",2019-04-21 01:57:45 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",71651007,Mammography (procedure),2019-04-21 02:42:44 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",35025007,Manual pelvic examination (procedure),2019-04-21 03:01:13 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",90226004,"Cytopathology procedure, preparation of smear, genital source (procedure)",2019-04-21 03:12:43 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",25656009,"Physical examination, complete (procedure)",2019-08-01 03:26:12 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",25656009,"Physical examination, complete (procedure)",2019-12-02 03:08:17-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",63332003,History AND physical examination (procedure),2020-03-01 05:05:19-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",315639002,Initial patient assessment (procedure),2020-03-01 05:05:19-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",370789001,Development of individualized plan of care (procedure),2020-03-01 05:05:19-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",410401003,Nursing care/supplementary surveillance (regime/therapy),2020-03-01 05:05:19-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",84478008,Occupational therapy (regime/therapy),2020-03-01 05:05:19-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",311555007,Speech and language therapy regime (regime/therapy),2020-03-01 05:05:19-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",410401003,Nursing care/supplementary surveillance (regime/therapy),2020-03-02 05:05:19-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",409023009,Professional / ancillary services care (regime/therapy),2020-03-02 05:05:19-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",225386006,Pre-discharge assessment (procedure),2020-03-03 05:05:19-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",449381000124108,Discharge from skilled nursing facility (procedure),2020-03-03 05:05:19-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",25656009,"Physical examination, complete (procedure)",2020-03-17 04:47:44 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",71651007,Mammography (procedure),2020-03-17 05:27:20 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",35025007,Manual pelvic examination (procedure),2020-03-17 05:45:06 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",90226004,"Cytopathology procedure, preparation of smear, genital source (procedure)",2020-03-17 05:56:10 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",25656009,"Physical examination, complete (procedure)",2020-06-30 06:10:20 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",710824005,Assessment of health and social care needs (procedure),2020-08-01 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",710841007,Assessment of anxiety (procedure),2020-08-01 06:55:03 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",252160004,Standard pregnancy test,2020-09-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",169230002,Ultrasound scan for fetal viability,2020-09-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",274804006,Evaluation of uterine fundal height,2020-09-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",225158009,Auscultation of the fetal heart,2020-09-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",44608003,Blood group typing (procedure),2020-09-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",104091002,"Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential",2020-09-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",47758006,Hepatitis B Surface Antigen Measurement,2020-09-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",31676001,Human immunodeficiency virus antigen test,2020-09-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",310861008,Chlamydia antigen test,2020-09-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",165829005,Gonorrhea infection titer test (procedure),2020-09-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",269828009,Syphilis infectious titer test (procedure),2020-09-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",117010004,Urine culture,2020-09-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",90226004,"Cytopathology procedure, preparation of smear, genital source",2020-09-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",395123002,Urine screening test for diabetes,2020-09-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",104375008,"Hepatitis C antibody, confirmatory test",2020-09-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",169690007,Rubella screening,2020-09-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",104326007,Measurement of Varicella-zoster virus antibody,2020-09-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",28163009,"Skin test for tuberculosis, Tine test (procedure)",2020-09-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",167271000,Urine protein test,2020-09-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",5880005,Physical examination procedure (procedure),2020-09-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",14768001,Peripheral blood smear interpretation,2020-09-26 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",415300000,Review of systems (procedure),2020-09-26 06:35:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",430193006,Medication Reconciliation (procedure),2020-09-26 06:47:51 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",162676008,Brief general examination (procedure),2020-09-26 06:57:09 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",274804006,Evaluation of uterine fundal height,2020-10-24 07:14:00 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",225158009,Auscultation of the fetal heart,2020-10-24 07:14:00 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",443529005,Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure),2020-10-24 07:14:00 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",25656009,"Physical examination, complete (procedure)",2020-10-31 06:53:34 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",271442007,Fetal anatomy study,2020-11-21 06:14:00-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",275833003,AFP test - antenatal,2020-11-21 06:14:00-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",274804006,Evaluation of uterine fundal height,2020-11-21 06:14:00-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",225158009,Auscultation of the fetal heart,2020-11-21 06:14:00-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",274804006,Evaluation of uterine fundal height,2020-12-19 06:14:00-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",225158009,Auscultation of the fetal heart,2020-12-19 06:14:00-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",274804006,Evaluation of uterine fundal height,2021-01-16 06:14:00-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",225158009,Auscultation of the fetal heart,2021-01-16 06:14:00-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",104091002,"Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential",2021-02-13 06:14:00-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",399014008,"Administration of diphtheria, pertussis, and tetanus vaccine",2021-02-13 06:14:00-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",268556000,Urine screening for glucose,2021-02-13 06:14:00-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",274804006,Evaluation of uterine fundal height,2021-02-13 06:14:00-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",225158009,Auscultation of the fetal heart,2021-02-13 06:14:00-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",25656009,"Physical examination, complete (procedure)",2021-03-05 06:32:11-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",71651007,Mammography (procedure),2021-03-05 07:09:38-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",35025007,Manual pelvic examination (procedure),2021-03-05 07:26:11-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",90226004,"Cytopathology procedure, preparation of smear, genital source (procedure)",2021-03-05 07:40:45-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",274804006,Evaluation of uterine fundal height,2021-03-13 06:14:00-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",225158009,Auscultation of the fetal heart,2021-03-13 06:14:00-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",118001005,Streptococcus pneumoniae group B antigen assay,2021-04-10 07:14:00 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",274804006,Evaluation of uterine fundal height,2021-04-10 07:14:00 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",225158009,Auscultation of the fetal heart,2021-04-10 07:14:00 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",31208007,Medical induction of labor,2021-04-24 07:14:00 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",66348005,Childbirth,2021-04-24 07:14:00 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",5880005,Physical examination procedure (procedure),2021-06-05 07:14:00 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",171207006,Depression screening,2021-06-05 07:14:00 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",25656009,"Physical examination, complete (procedure)",2021-06-15 08:53:47 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",25656009,"Physical examination, complete (procedure)",2021-10-05 09:31:44 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",25656009,"Physical examination, complete (procedure)",2022-01-18 09:06:30-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",71651007,Mammography (procedure),2022-01-18 09:50:58-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",35025007,Manual pelvic examination (procedure),2022-01-18 10:06:38-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",90226004,"Cytopathology procedure, preparation of smear, genital source (procedure)",2022-01-18 10:21:10-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",169553002,Insertion of subcutaneous contraceptive,2022-06-14 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",25656009,"Physical examination, complete (procedure)",2023-02-08 10:40:46-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",71651007,Mammography (procedure),2023-02-08 11:25:42-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",35025007,Manual pelvic examination (procedure),2023-02-08 11:45:11-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",90226004,"Cytopathology procedure, preparation of smear, genital source (procedure)",2023-02-08 11:58:50-05:00,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",169553002,Insertion of subcutaneous contraceptive,2023-06-09 06:36:56 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",430193006,Medication Reconciliation (procedure),2023-08-05 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",710824005,Assessment of health and social care needs (procedure),2023-08-05 06:05:19 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",171207006,Depression screening (procedure),2023-08-05 06:57:26 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),2023-08-05 07:07:47 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",428211000124100,Assessment of substance use (procedure),2023-08-05 07:32:18 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Greenholt190, Pok428 Meagan221",713106006,Screening for drug abuse (procedure),2023-08-05 07:42:35 pm,TCGA-E9-A1RH-01A-21R-A169-07
+"Lindgren255, Hilaria948 Tammy740",117015009,Throat culture (procedure),2014-03-16 22:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",430193006,Medication Reconciliation (procedure),2015-06-14 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",710824005,Assessment of health and social care needs (procedure),2015-06-14 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",171207006,Depression screening (procedure),2015-06-14 18:53:48 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),2015-06-14 19:08:36 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",428211000124100,Assessment of substance use (procedure),2015-06-14 19:33:03 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),2015-06-14 19:44:39 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",430193006,Medication Reconciliation (procedure),2016-06-19 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",710824005,Assessment of health and social care needs (procedure),2016-06-19 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",710841007,Assessment of anxiety (procedure),2016-06-19 18:42:05 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",171207006,Depression screening (procedure),2016-06-19 19:01:56 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),2016-06-19 19:15:39 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",428211000124100,Assessment of substance use (procedure),2016-06-19 19:43:53 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",713106006,Screening for drug abuse (procedure),2016-06-19 19:54:20 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",301807007,Removal of subcutaneous contraceptive,2017-01-01 17:10:18-05:00,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",169553002,Insertion of subcutaneous contraceptive,2017-01-01 17:35:26-05:00,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",430193006,Medication Reconciliation (procedure),2017-06-25 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",710824005,Assessment of health and social care needs (procedure),2017-06-25 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",710841007,Assessment of anxiety (procedure),2017-06-25 19:01:55 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",171207006,Depression screening (procedure),2017-06-25 19:27:15 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),2017-06-25 19:40:13 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",428211000124100,Assessment of substance use (procedure),2017-06-25 20:03:29 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",713106006,Screening for drug abuse (procedure),2017-06-25 20:17:08 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",710824005,Assessment of health and social care needs (procedure),2017-08-20 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",710841007,Assessment of anxiety (procedure),2017-08-20 18:59:39 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",428211000124100,Assessment of substance use (procedure),2017-08-20 19:25:22 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),2017-08-20 19:38:09 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",23426006,Measurement of respiratory function (procedure),2017-08-27 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",710824005,Assessment of health and social care needs (procedure),2018-01-28 17:10:18-05:00,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",710841007,Assessment of anxiety (procedure),2018-01-28 17:42:54-05:00,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",866148006,Screening for domestic abuse (procedure),2018-01-28 18:00:07-05:00,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",428211000124100,Assessment of substance use (procedure),2018-01-28 18:38:37-05:00,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),2018-01-28 18:49:27-05:00,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",430193006,Medication Reconciliation (procedure),2018-07-01 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",710824005,Assessment of health and social care needs (procedure),2018-07-01 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",710841007,Assessment of anxiety (procedure),2018-07-01 18:43:03 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",171207006,Depression screening (procedure),2018-07-01 18:58:25 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),2018-07-01 19:12:06 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",428211000124100,Assessment of substance use (procedure),2018-07-01 19:41:28 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",713106006,Screening for drug abuse (procedure),2018-07-01 19:55:42 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",301807007,Removal of subcutaneous contraceptive,2019-03-17 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",252160004,Standard pregnancy test,2019-05-05 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",169230002,Ultrasound scan for fetal viability,2019-05-05 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",5880005,Physical examination procedure (procedure),2019-05-25 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",171207006,Depression screening,2019-05-25 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",710824005,Assessment of health and social care needs (procedure),2019-07-07 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",710841007,Assessment of anxiety (procedure),2019-07-07 19:03:39 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",171207006,Depression screening (procedure),2019-07-07 19:30:56 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),2019-07-07 19:43:07 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",428211000124100,Assessment of substance use (procedure),2019-07-07 20:08:17 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),2019-07-07 20:21:24 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",430193006,Medication Reconciliation (procedure),2020-07-12 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",710824005,Assessment of health and social care needs (procedure),2020-07-12 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",171207006,Depression screening (procedure),2020-07-12 18:48:46 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),2020-07-12 18:59:07 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",428211000124100,Assessment of substance use (procedure),2020-07-12 19:24:39 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),2020-07-12 19:36:58 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",430193006,Medication Reconciliation (procedure),2021-07-18 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",710824005,Assessment of health and social care needs (procedure),2021-07-18 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",710841007,Assessment of anxiety (procedure),2021-07-18 18:48:02 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",171207006,Depression screening (procedure),2021-07-18 19:06:24 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),2021-07-18 19:17:57 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",428211000124100,Assessment of substance use (procedure),2021-07-18 19:45:31 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",713106006,Screening for drug abuse (procedure),2021-07-18 19:57:50 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",710824005,Assessment of health and social care needs (procedure),2022-07-24 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",710841007,Assessment of anxiety (procedure),2022-07-24 19:00:24 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",171207006,Depression screening (procedure),2022-07-24 19:18:13 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),2022-07-24 19:32:52 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",24623002,Screening mammography (procedure),2023-06-30 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",1571000087109,Ultrasonography of bilateral breasts (procedure),2023-06-30 18:32:38 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",122548005,Biopsy of breast (procedure),2023-06-30 18:48:55 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",434363004,Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure),2023-06-30 19:20:07 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",433114000,Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure),2023-07-02 03:20:07 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",223487003,Discussion about options (procedure),2023-07-06 07:14:07 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",69031006,Excision of breast tissue (procedure),2023-07-10 08:57:42 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-07-16 12:07:42 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-07-17 19:26:36 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-07-19 01:15:37 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-07-20 02:47:03 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-07-21 09:12:54 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-07-22 12:06:30 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",710824005,Assessment of health and social care needs (procedure),2023-07-30 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",171207006,Depression screening (procedure),2023-07-30 18:56:05 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),2023-07-30 19:10:19 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",428211000124100,Assessment of substance use (procedure),2023-07-30 19:30:44 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",713106006,Screening for drug abuse (procedure),2023-07-30 19:40:44 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-08-06 18:10:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-08-08 01:56:57 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-08-09 14:00:38 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-08-10 15:33:49 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-08-11 21:41:09 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-08-13 08:14:46 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-08-14 15:04:03 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-08-15 18:44:28 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-08-17 06:20:36 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-08-18 12:58:03 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-08-19 22:15:42 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-08-21 03:08:40 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-08-22 06:22:18 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-08-23 12:06:46 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-08-24 22:19:43 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-08-26 09:06:43 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-08-27 19:45:19 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-08-28 23:32:39 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-08-30 06:45:48 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-08-31 13:39:04 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-09-01 19:57:30 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-09-03 03:14:06 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-09-04 13:23:29 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-09-05 22:55:26 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-09-07 10:22:11 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-09-08 12:55:08 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-09-09 17:44:36 pm,TCGA-C8-A26W-01A-11R-A16F-07
+"Lindgren255, Hilaria948 Tammy740",33195004,External beam radiation therapy procedure (procedure),2023-09-10 19:42:36 pm,TCGA-C8-A26W-01A-11R-A16F-07
