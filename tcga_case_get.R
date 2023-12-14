@@ -368,6 +368,7 @@ entrezIDs <- bitr(geneIdentifiers, fromType = "ENSEMBL", toType = "ENTREZID", Or
 # Performing KEGG enrichment analysis (note: adjust parameters as needed)
 # This analysis aims to identify pathways that are significantly enriched in your list of significant genes.
 keggResult <- enrichKEGG(gene = entrezIDs$ENTREZID, organism = 'hsa', pvalueCutoff = 0.05)  # enriched pathways
+# The enrichKEGG function performs statistical tests to determine which KEGG pathways are significantly enriched in your list of genes based on the provided gene IDs. It calculates p-values for each pathway.
 # Mapping Genes to Pathways: After getting the enriched pathways (keggResult), the goal is to 
 # map these pathways back to your significant genes. However, it's important to note that not all significant genes may be part of the identified enriched pathways, which could be why some genes in topGenes don't have an associated pathway.
 
@@ -413,37 +414,25 @@ forTopGenes <- function(topGenes) {
 }
 # If a gene is part of a pathway in keggResult, that pathway's description is added to the gene in topGenes.
 topGenesdf <- forTopGenes(topGenes)
-# ok then get rid of NA's 
+# ok then get rid of NA's and 
+
 # so we get only the significant genes in the significant pathways
 
 # Filter out rows where the Pathway is NA
 topGenesdf_filtered <- topGenesdf[!is.na(topGenesdf$Pathway), ]
+# what we dispay in the first tab after NAs rm
 
 # Splitting the pathway information, as one gene can be associated with multiple pathways
-topGenesdf_filtered$Pathway <- strsplit(as.character(topGenesdf_filtered$Pathway), "; ")
+# topGenesdf_filtered$Pathway <- strsplit(as.character(topGenesdf_filtered$Pathway), "; ")
 
 # Using rownames as the gene identifiers
-normalizedPathways <- stack(setNames(topGenesdf_filtered$Pathway, rownames(topGenesdf_filtered)))
+# normalizedPathways <- stack(setNames(topGenesdf_filtered$Pathway, rownames(topGenesdf_filtered)))
 
-# Counting the number of occurrences of each pathway
-pathwayCounts <- table(normalizedPathways$values)
-pathwayCounts <- as.numeric(table(normalizedPathways$values))
-
-# Unlist the pathways to normalize the data
-unlistedPathways <- unlist(topGenesdf_filtered$Pathway)
-
-# Counting the number of occurrences of each pathway
-pathwayCounts <- table(unlistedPathways)
-
-# Convert to a named numeric vector
-# pathwayCounts <- as.numeric(pathwayCounts)
-# names(pathwayCounts) <- names(attr(pathwayCounts, "dimnames")[[1]])
 
 
 # Assuming keggResult_df contains the pathway IDs in a column named 'ID'
 library(KEGGREST)
 
-pathwayIDs <- keggResult_df$ID
 
 # Function to get gene count for a pathway
 getGeneCountForPathway <- function(pathwayID) {
@@ -460,29 +449,32 @@ getGeneCountForPathway <- function(pathwayID) {
 }
 
 # Apply the function to each pathway ID
-pathwayGeneCounts <- sapply(pathwayIDs, getGeneCountForPathway, USE.NAMES = TRUE)
+pathwayIDs <- keggResult_df$ID
+pathwayGeneCounts <- sapply(pathwayIDs, getGeneCountForPathway, USE.NAMES = TRUE) # total genes in each pathway
+# hsa04974 hsa04976 hsa04964 hsa04971 hsa00982 hsa00830 
+# 206      178       46      152      144      136 
 
-# Check the gene counts
-head(pathwayGeneCounts)
+# Assuming pathwayGeneCounts is correctly retrieved and pathwayIDs match those in keggResult_df
+namedTotalGenes <- setNames(pathwayGeneCounts, keggResult_df$ID)
 
-namedTotalGenes <- setNames(pathwayGeneCounts, names(pathwayCounts))
+# Create a mapping of pathway IDs to their descriptions
+idToDescription <- setNames(keggResult_df$Description, keggResult_df$ID)
 
-# Calculating proportions
-# Ensure that the names in pathwayCounts match those in namedTotalGenes
-proportions <- pathwayCounts / namedTotalGenes[names(pathwayCounts)]
+# Align the names of namedTotalGenes with the pathway descriptions
+names(namedTotalGenes) <- idToDescription[names(namedTotalGenes)]
 
-# proportions <- pathwayCounts / totalGenesPerPathway
+# Now calculate the proportions
+proportions <- keggResult_df$Count / namedTotalGenes[keggResult_df$Description]
 
-# Creating a dataframe for pathway ranking
-pathwayRanking <- data.frame(Pathway = names(proportions), Proportion = proportions)
+# Create a dataframe for pathway ranking
+pathwayRanking <- data.frame(Pathway = keggResult_df$Description, Proportion = proportions, stringsAsFactors = FALSE)
+
+# Order the dataframe by the Proportion column in descending order
+pathwayRanking <- na.omit(pathwayRanking) # Remove NA values, if any
 pathwayRanking <- pathwayRanking[order(-pathwayRanking$Proportion), ]
 
 
-
-
-
-
-
+### $$$ 
 
 # 2. Gene Set Enrichment Analysis (GSEA)
 # Using clusterProfiler:
