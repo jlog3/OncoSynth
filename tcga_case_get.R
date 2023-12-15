@@ -509,7 +509,6 @@ unique_entrez_ids <- unique(valid_entrez_ids)
 geneList_subset <- geneList[names(geneList) %in% (unique_entrez_ids)]
 
 
-
 # Run GSEA
 gseaResult <- gseGO(geneList = geneList_subset, 
                     ont = "BP", 
